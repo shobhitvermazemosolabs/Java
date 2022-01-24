@@ -1,6 +1,6 @@
-package assignment7;
+package assignment7.part1;
 
-public class Gerbils extends Rodent{
+public class Gerbils extends Rodent {
     public Gerbils(){
         System.out.println("this is the example for gerbils class");
     }

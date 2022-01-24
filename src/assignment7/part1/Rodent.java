@@ -1,4 +1,4 @@
-package assignment7;
+package assignment7.part1;
 
 public abstract class Rodent {
 //    public Rodent(){

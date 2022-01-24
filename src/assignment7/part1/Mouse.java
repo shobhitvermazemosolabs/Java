@@ -1,6 +1,6 @@
-package assignment7;
+package assignment7.part1;
 
-public class Mouse extends Rodent{
+public class Mouse extends Rodent {
     public Mouse(){
         System.out.println("this is the mouse class");
     }

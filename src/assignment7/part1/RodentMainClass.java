@@ -1,4 +1,9 @@
-package assignment7;
+package assignment7.part1;
+
+import assignment7.part1.Gerbils;
+import assignment7.part1.Hamster;
+import assignment7.part1.Mouse;
+import assignment7.part1.Rodent;
 
 import java.util.Scanner;
 

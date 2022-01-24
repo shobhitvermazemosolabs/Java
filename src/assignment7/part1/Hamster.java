@@ -1,6 +1,6 @@
-package assignment7;
+package assignment7.part1;
 
-public class Hamster extends Rodent{
+public class Hamster extends Rodent {
     public Hamster(){
         System.out.println("this is the example for the Hamster class");
     }
